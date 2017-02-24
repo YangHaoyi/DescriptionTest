@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.regexp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/2017/rebuild/HKr_IceAge/aboutus/src/main/java/com/reachauto/aboutus/presenter/datalistener/impl/CheckUpdateListenerImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/2017/rebuild/HKr_IceAge/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/2017/rebuild/HKr_IceAge/app/src/main/java/com/reachauto/hkr/activity/BootActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/2017/rebuild/HKr_IceAge/app/src/main/java/com/reachauto/hkr/model/GuideSliderModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/2017/rebuild/HKr_IceAge/branchmodule/src/main/java/com/reachauto/hkr/branchmodule/presenter/BranchDetailOrderPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/2017/rebuild/HKr_IceAge/feedback/src/main/java/com/reachauto/feedback/presenter/FeedBackPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/2017/rebuild/HKr_IceAge/paymodule/src/main/java/com/reachauto/paymodule/fragment/SwitchPaymentFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/2017/rebuild/HKr_IceAge/scanmodule/src/main/java/com/reachauto/scanmodule/presenter/RentalPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/2017/rebuild/HKr_IceAge/userinfomodule/src/main/java/com/reachauto/userinfomodule/view/impl/ReturnDepositViewImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/2017/rebuild/HKr_IceAge/userinfomodule/src/main/res/layout/frag_return_deposi.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/description/src/main/java/com/yhy/description/Beverage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/description/src/main/java/com/yhy/description/Condiment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/description/src/main/java/com/yhy/description/CondimentDecorator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/description/src/main/java/com/yhy/description/CupSize.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/description/src/main/java/com/yhy/description/Espresso.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/description/src/main/java/com/yhy/description/HouseBlend.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/description/src/main/java/com/yhy/description/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/description/src/main/java/com/yhy/description/condiment/Mocha.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/description/src/main/java/com/yhy/description/condiment/Soy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/description/src/main/java/com/yhy/description/condiment/Whip.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/description/src/main/java/com/yhy/description/cup/BigCup.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/description/src/main/java/com/yhy/description/cup/MiddleCup.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/description/src/main/java/com/yhy/description/cup/SmallCup.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/description/src/main/java/com/yhy/description/decorator/Mocha.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/description/src/main/java/com/yhy/description/drink/Espresso.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/description/src/main/java/com/yhy/description/drink/HouseBlend.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FactoryTest/factory/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FactoryTest/factory/src/main/java/com/yhy/factory/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FactoryTest/factory/src/main/java/com/yhy/factory/Pizza.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FactoryTest/factory/src/main/java/com/yhy/factory/PizzaStore.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FactoryTest/factory/src/main/java/com/yhy/factory/pizza/ChicagoCheesePizza.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FactoryTest/factory/src/main/java/com/yhy/factory/pizza/ChicagoClamPizza.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FactoryTest/factory/src/main/java/com/yhy/factory/pizza/ChicagoVeggiePizza.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FactoryTest/factory/src/main/java/com/yhy/factory/pizza/NYCheesePizza.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FactoryTest/factory/src/main/java/com/yhy/factory/pizza/NYClamPizza.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FactoryTest/factory/src/main/java/com/yhy/factory/pizza/NYVeggiePizza.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FactoryTest/factory/src/main/java/com/yhy/factory/store/ChicagoPizzaStore.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FactoryTest/factory/src/main/java/com/yhy/factory/store/NYPizzaStore.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
